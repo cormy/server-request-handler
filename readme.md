@@ -2,7 +2,7 @@
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/3b3d49be-cfab-4844-967f-646a838add5c/big.png)](https://insight.sensiolabs.com/projects/3b3d49be-cfab-4844-967f-646a838add5c)
 
-> Common interfaces for PSR-7 server request handlers
+> :nut_and_bolt: Common interfaces for [PSR-7](http://www.php-fig.org/psr/psr-7) server request handlers
 
 
 ## Install
